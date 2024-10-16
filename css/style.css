@@ -297,6 +297,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-cover {
   background-size: contain;
+  background:url(../images/img_bg_2.jpg);  
   background-repeat: no-repeat;
   position: relative;
   width: 100%;
@@ -1642,6 +1643,13 @@ form label {
   .fh5co-nav-toggle {
     
   }
+ .fh5co-cover
+ {
+  background-size: contain;
+  background:url(../images/img_bg_233.jpg);  
+  
+  background-size: cover;
+ }
 }
 
 .btn {
